@@ -280,6 +280,8 @@ height: 60%;
 
     .section-work{
 
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
    }
     
     .div-all{
