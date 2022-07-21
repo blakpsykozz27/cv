@@ -272,7 +272,7 @@ height: 60%;
 
 
    }
-   
+
     .section-work{
 
    }
@@ -284,6 +284,28 @@ height: 60%;
    .div-title-all{
 
 
+   }
+
+
+   .section-langue{
+
+    margin: 50px;
+
+   }
+
+   .section-profil{
+
+    margin: 50px;
+
+   }
+
+   .div-profil{
+
+   }
+
+   .text-profil{
+
+    
    }
 
 }
